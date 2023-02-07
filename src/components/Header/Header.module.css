@@ -1,0 +1,21 @@
+
+.wrapper {
+ width: 90%;
+ max-width: 1440px;
+ margin: 0 auto;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding: 34px 0;
+}
+
+.list {
+ list-style: none;
+ display: flex;
+ gap: 26px;
+}
+
+.link {
+ color: rgba(255, 255, 255, 0.709);
+ text-decoration: none;
+}
