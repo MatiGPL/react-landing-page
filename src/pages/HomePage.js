@@ -1,10 +1,11 @@
 import React from 'react'
+import Main from '../components/Main/Main'
 import MainTemplate from '../components/MainTemplate/MainTemplate'
 
 const HomePage = () => {
   return (
     <MainTemplate>
-      <h2>Home Page</h2>
+      <Main/>
 
     </MainTemplate>
   )
